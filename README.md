@@ -1,1 +1,1 @@
-# -contrato-de-prestacao-de-servico
+# contrato-de-prestacao-de-servico
